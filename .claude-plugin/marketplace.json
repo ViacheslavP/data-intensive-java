@@ -1,4 +1,5 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "data-intensive-java",
   "owner": {
     "name": "ViacheslavP"
@@ -6,8 +7,12 @@
   "plugins": [
     {
       "name": "data-intensive-java",
-      "source": ".",
-      "description": "Low-level performance optimization skills for data-intensive Java and Kotlin"
+      "description": "Low-level performance optimization skills for data-intensive Java and Kotlin",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/ViacheslavP/data-intensive-java.git"
+      },
+      "homepage": "https://github.com/ViacheslavP/data-intensive-java"
     }
   ]
 }
