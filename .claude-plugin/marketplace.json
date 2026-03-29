@@ -9,10 +9,9 @@
       "name": "java-perf",
       "description": "Low-level performance optimization skills for data-intensive Java and Kotlin",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/ViacheslavP/data-intensive-java.git",
-        "path": "plugin",
-        "ref": "master"
+        "path": "plugin"
       },
       "homepage": "https://github.com/ViacheslavP/data-intensive-java"
     }
