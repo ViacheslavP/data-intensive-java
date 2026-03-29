@@ -1,0 +1,13 @@
+{
+  "name": "data-intensive-java",
+  "owner": {
+    "name": "ViacheslavP"
+  },
+  "plugins": [
+    {
+      "name": "data-intensive-java",
+      "source": "..",
+      "description": "Low-level performance optimization skills for data-intensive Java and Kotlin"
+    }
+  ]
+}
