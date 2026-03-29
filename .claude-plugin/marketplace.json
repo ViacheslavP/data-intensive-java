@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "data-intensive-java",
-      "source": "..",
+      "source": ".",
       "description": "Low-level performance optimization skills for data-intensive Java and Kotlin"
     }
   ]
