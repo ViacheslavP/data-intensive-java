@@ -6,7 +6,7 @@ Claude Code plugin with low-level performance optimization skills for Java and K
 
 ```
 /plugin marketplace add ViacheslavP/data-intensive-java
-/plugin install data-intensive-java@ViacheslavP-data-intensive-java
+/plugin install java-perf@data-intensive-java
 ```
 
 ## Skills

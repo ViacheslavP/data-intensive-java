@@ -6,7 +6,7 @@
   },
   "plugins": [
     {
-      "name": "data-intensive-java",
+      "name": "java-perf",
       "description": "Low-level performance optimization skills for data-intensive Java and Kotlin",
       "source": {
         "source": "git-subdir",

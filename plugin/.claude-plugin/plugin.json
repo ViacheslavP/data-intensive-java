@@ -1,5 +1,5 @@
 {
-  "name": "data-intensive-java",
+  "name": "java-perf",
   "description": "Low-level performance optimization skills for data-intensive Java and Kotlin — memory-mapped I/O, SWAR, SIMD, branchless parsing, custom hashmaps, off-heap memory, parallel processing, and benchmarking.",
   "version": "1.0.0",
   "author": {
